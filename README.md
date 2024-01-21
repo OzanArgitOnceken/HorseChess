@@ -7,3 +7,4 @@ The developed artificial intelligence program has the ability to predict the pos
 This study highlights the successful integration of AR technology and deep learning methods, demonstrating the capability to predict the positions of objects on specific surfaces. This method has practical applications in industrial design, education, and various other fields.
 explanation:https://www.youtube.com/watch?v=-bpCF03pCIg
 Related repository:https://github.com/OzanArgitOnceken/Graduation-Project-Deep-Learning-Part
+![0,06X0,31X236,01X20240120_151932](https://github.com/OzanArgitOnceken/HorseChess/assets/81165247/d0ee4b88-b8c6-44d0-932f-a7855aed3df4)
